@@ -26,7 +26,7 @@ O **Echo** é um aplicativo desktop que combina um corretor de textos inteligent
 1. **Clone** este repositório (ou baixe o código-fonte em formato ZIP):
 
    ```bash
-   git clone https://github.com/SeuUsuario/echo.git
+   git clone https://github.com/beped/echo.git
    cd echo
    ```
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
